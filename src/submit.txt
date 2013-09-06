@@ -1,0 +1,35 @@
+Allegro.cc ID: #358
+Name: Elias Pschernig
+E-mail Address: elias@users.sf.net
+Name of Entry: egghack
+
+
+- Optional Fields Below -
+
+Brief Description:
+
+A simple turn-based board game, where you have to roll a sphere around.
+
+How you met the technical requirements (code re-use, scrolling message, VM):
+
+The file demo.c is what was left from the original one.. and it's still slightly
+over 2 pages. (I had to split it into 3 functions and slightly modified it to
+draw bigger stars, but yes, it's the starfield code from the original demo.) I
+also re-used the MIDI file from the demo, if that counts.. And i re-used Shawn's
+complete EGG, so lots of code-reuse :)
+
+Well, for the other 2.. see the scrolling message at the start? And the EGG
+interpreter sure is a VM, even a damn good one :)
+
+How you met the artistic requirements (nuclear radiation):
+
+The main 'character' of the game itself is a nuclear uranum sphere, and do you
+see how it's radiating?
+
+Hm, and I also made an act of goat.. a goat promoting my game.. not sure if
+I interpreted that right though..
+
+Other comments:
+
+Somehow I feel bad for also doing the 2nd weekend, I postponed lots of work and
+coded another entry instead.. but I enjoyed it :)
